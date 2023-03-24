@@ -1,0 +1,29 @@
+/* ************************ tag selector ************************* */
+
+
+body{
+    background-color:skyblue
+}
+h1 {
+    font-size: 50px;
+    color: red;
+}
+img:hover{
+    background-color: gold;
+}
+/* ************************ class selector ************************* */
+.bacon {
+    background-color: green;
+    height: 90px;
+}
+.broccoli {
+    background-color: crimson;
+    height: 90px;
+}
+.circular {
+     border-radius: 100%;
+}
+/* ************************ ids selector ************************* */
+#heading {
+    color: blue;
+}
